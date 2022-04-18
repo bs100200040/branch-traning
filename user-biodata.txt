@@ -1,0 +1,7 @@
+name:waqas
+edu:bsc
+age:30
+job:IT
+dept:IT
+
+user data for company
